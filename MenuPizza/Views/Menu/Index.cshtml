@@ -1,0 +1,25 @@
+﻿@model List<MenuPizza.Models.Dish>
+@{
+    ViewData["Title"] = "Menu";
+}
+<div class="container">
+    <div class="row justify-content-center">
+        @foreach(var item in Model) 
+        {
+            <div class="col-12 col-md-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="@item.ImageUrl" class="card-img-top img-fluid" alt="Pizza 1">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name</h5>
+                        <p class="card-text">@item.price.ToString("N2") Dollars</p>
+                        <a asp-action="Details" asp-controller="Menu" asp-route-id="@item.Id" class="btn btn-primary">Go Details</a>
+                    </div>
+                </div>
+
+            </div>
+            
+        }
+
+    </div>
+
+</div>

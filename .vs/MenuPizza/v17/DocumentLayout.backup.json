@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|c:\\users\\alexis\\documents\\asp.net core mvc\\menupizza\\menupizza\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|solutionrelative:menupizza\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|c:\\users\\alexis\\documents\\asp.net core mvc\\menupizza\\menupizza\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|solutionrelative:menupizza\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|c:\\users\\alexis\\documents\\asp.net core mvc\\menupizza\\menupizza\\controllers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|solutionrelative:menupizza\\controllers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|c:\\users\\alexis\\documents\\asp.net core mvc\\menupizza\\menupizza\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|solutionrelative:menupizza\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|c:\\users\\alexis\\documents\\asp.net core mvc\\menupizza\\menupizza\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|solutionrelative:menupizza\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|c:\\users\\alexis\\documents\\asp.net core mvc\\menupizza\\menupizza\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|solutionrelative:menupizza\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|c:\\users\\alexis\\documents\\asp.net core mvc\\menupizza\\menupizza\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83EB358-98D9-4476-BCEE-A578363C9D83}|MenuPizza\\MenuPizza.csproj|solutionrelative:menupizza\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\.gitignore",
+              "RelativeDocumentMoniker": "MenuPizza\\.gitignore",
+              "ToolTip": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\.gitignore",
+              "RelativeToolTip": "MenuPizza\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T00:32:08.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MenuPizza\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MenuPizza\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T22:53:44.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\Views\\Menu\\Details.cshtml",
+              "RelativeDocumentMoniker": "MenuPizza\\Views\\Menu\\Details.cshtml",
+              "ToolTip": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\Views\\Menu\\Details.cshtml",
+              "RelativeToolTip": "MenuPizza\\Views\\Menu\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T22:43:11.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "MenuPizza\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "MenuPizza\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T21:47:15.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\Controllers\\Menu.cs",
+              "RelativeDocumentMoniker": "MenuPizza\\Controllers\\Menu.cs",
+              "ToolTip": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\Controllers\\Menu.cs",
+              "RelativeToolTip": "MenuPizza\\Controllers\\Menu.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:45:46.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuContext.cs",
+              "DocumentMoniker": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\Data\\MenuContext.cs",
+              "RelativeDocumentMoniker": "MenuPizza\\Data\\MenuContext.cs",
+              "ToolTip": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\Data\\MenuContext.cs",
+              "RelativeToolTip": "MenuPizza\\Data\\MenuContext.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:38:46.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "MenuPizza\\Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\alexis\\Documents\\ASP.NET Core MVC\\MenuPizza\\MenuPizza\\Models\\Ingredient.cs",
+              "RelativeToolTip": "MenuPizza\\Models\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:29:51.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
